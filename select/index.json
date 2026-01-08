@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ボーイフレンド",
+  "base_artist": "aiko",
+  "createdAt": "2026-01-08T16:03:05.977986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボーイフレンド",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/01_ボーイフレンド_aiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ボーイフレンド 　～ fresa.jp",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/02_ボーイフレンド_~_fresa.jp_aiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ボーイフレンド",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/03_ボーイフレンド_aiko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ボーイフレンド",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/04_ボーイフレンド_杏里.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ボーイフレンド",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/05_ボーイフレンド_杏里.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ボーイフレンド (Boyfriend)",
+      "artist": "Anri",
+      "has_synced": false,
+      "path": "select/06_ボーイフレンド_(Boyfriend)_Anri.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ボーイフレンド - Boyfriend",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/07_ボーイフレンド_-_Boyfriend_aiko.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "センチメンタル・ボーイフレンド",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/08_センチメンタル・ボーイフレンド_いきものがかり.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ボーイフレンド",
+      "artist": "Anri",
+      "has_synced": false,
+      "path": "select/09_ボーイフレンド_Anri.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ボーイフレンド",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/10_ボーイフレンド_Anri.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "センチメンタル・ボーイフレンド",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/11_センチメンタル・ボーイフレンド_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ボーイフレンド (Instrumental version)",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/12_ボーイフレンド_(Instrumental_version)_aiko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボーイフレンド",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_ボーイフレンド_aiko.txt"
+    }
+  ]
+}
